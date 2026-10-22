@@ -12,3 +12,5 @@ The learning material is organised into numbered modules, each covering a specif
 4. **Review your solutions.** Compare your answers with those in the corresponding `answers` folder to check your understanding and learn alternative approaches.
 
 The goal is to understand how and why commands work, not just memorise their syntax. Take your time with each module and experiment with the commands where it is safe to do so.
+
+You can start by heading over to [Module 1]()! 
