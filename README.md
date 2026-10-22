@@ -107,6 +107,8 @@ git clone https://github.com/ishaann-007/Linux-Fundamentals.git
 cd Linux-Fundamentals
 ```
 
+Head over to [Getting Started](https://github.com/ishaann-007/Linux-Fundamentals/blob/main/Getting-Started/Getting-Started.md) to begin your Linux Fundamentals Journey!
+
 Practice instructions and exercise files will be added as the repository develops.
 
 ## Contributions and Feedback
