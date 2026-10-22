@@ -13,4 +13,4 @@ The learning material is organised into numbered modules, each covering a specif
 
 The goal is to understand how and why commands work, not just memorise their syntax. Take your time with each module and experiment with the commands where it is safe to do so.
 
-You can start by heading over to [Module 1]()! 
+You can start by heading over to [Module 1](https://github.com/ishaann-007/Linux-Fundamentals/blob/main/Module1/User%20and%20Terminal%20Basics.md)! 
